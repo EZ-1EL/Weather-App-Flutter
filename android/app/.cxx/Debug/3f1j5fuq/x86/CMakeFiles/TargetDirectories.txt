@@ -1,0 +1,2 @@
+C:/Users/Ezel/Desktop/Flutter-Beginners-Projects-main/weather_app/android/app/.cxx/Debug/3f1j5fuq/x86/CMakeFiles/edit_cache.dir
+C:/Users/Ezel/Desktop/Flutter-Beginners-Projects-main/weather_app/android/app/.cxx/Debug/3f1j5fuq/x86/CMakeFiles/rebuild_cache.dir
