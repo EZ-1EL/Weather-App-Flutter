@@ -2,9 +2,11 @@
 
 Interactive weather application built with Flutter. Search any city and view current conditions with temperature, min/max, last updated time, and a matching illustration. State is managed via `provider`, data fetched with `http` from WeatherAPI.
 
-![Screenshot](https://github.com/EZ-1EL/Weather-App-Flutter/blob/main/Screenshot%202025-08-18%20043521.png)
-![Screenshot](https://github.com/EZ-1EL/Weather-App-Flutter/blob/main/not%20found.png)
-![Screenshot](https://github.com/EZ-1EL/Weather-App-Flutter/blob/main/search.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EZ-1EL/Weather-App-Flutter/main/Screenshot%202025-08-18%20043521.png" width="300" alt="Screenshot 1"/>
+  <img src="https://raw.githubusercontent.com/EZ-1EL/Weather-App-Flutter/main/not%20found.png" width="300" alt="Screenshot 2"/>
+  <img src="https://raw.githubusercontent.com/EZ-1EL/Weather-App-Flutter/main/search.png" width="300" alt="Screenshot 3"/>
+</p>
 
 ### Features
 - **City search**: Enter a city and fetch current day forecast.
